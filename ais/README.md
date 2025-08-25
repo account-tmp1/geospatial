@@ -1,2 +1,3 @@
 ### Note
-- AIS vessel location around US coast, about minutely
+- AIS vessel location around US coast.
+- EOD snapshot for now.
